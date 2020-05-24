@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1024,"runtime":"script/GameUI.ts","name":"box","height":648},"compId":1,"child":[{"type":"Label","props":{"y":43,"var":"pause_label","text":"暂停暂停","name":"pause_label","fontSize":35,"color":"#3a9c13","centerX":0},"compId":22},{"type":"Script","props":{"runtime":"script/Game.ts"},"compId":23}],"loadList":[],"loadList3D":[]}
